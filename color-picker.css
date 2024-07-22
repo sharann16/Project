@@ -1,0 +1,53 @@
+.bsckground{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(250, 250, 250);
+text-align: center;
+padding-top: 40px;
+border: 2px solid;
+border-radius: 10px;
+}
+.colour{
+    display: inline-flex;
+    padding-top: 40px;
+}
+.c1{
+    background-color: #e0e0e0;
+    padding: 10px;
+    border :2px solid;
+    border-radius: 10px;
+    margin: 10px;
+}
+.c2{
+    background-color: #6fcf97;
+    padding: 10px;
+    border :2px solid;
+    border-radius: 10px;
+    margin: 10px;
+}
+.c3{
+    background-color: #56ccf2;
+    padding: 10px;
+    border :2px solid;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.c4{
+    background-color: #bb6bd9;
+    padding: 10px;
+    border :2px solid;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.selcol{
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+h4{
+    font-size: 20px;
+    margin-top: 20px;
+    padding-top: 10px;
+}
